@@ -9,6 +9,11 @@ header {
     margin: 0 auto;
 }
 
+h1 {
+   widht: 20%
+   height: 20%
+}
+
 nav {
     position:absolute;
     top: 110px;
