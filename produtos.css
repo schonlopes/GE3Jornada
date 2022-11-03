@@ -1,5 +1,5 @@
 header {
-    background: #cf6161;
+    background: #f40484;
     padding: 20px 0;
 }
 
@@ -7,6 +7,11 @@ header {
     position: relative;
     width: 450px;
     margin: 0 auto;
+}
+
+h1 {
+    position: absolute;
+    display: inline;
 }
 
 nav {
